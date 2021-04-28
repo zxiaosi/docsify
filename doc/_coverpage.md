@@ -13,7 +13,5 @@
 
 <br>
 
-[GitHub](https://github.com/zxiaosi/doc.git)    [开始阅读](/README.md)
-=======
 [GitHub](https://github.com/zxiaosi/doc)    [开始阅读](/README.md)
 
