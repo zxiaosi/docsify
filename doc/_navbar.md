@@ -10,7 +10,7 @@
   + [🐘 PHP](README?id=🐘-php)
   + [🐬 MySQL](README?id=🐬-mysql)
 + [🔗 网站](/README.md)
-+ [🌎 主站](https://zxiaosi.cn/)
+  + [🌎 主站](https://zxiaosi.cn/)
   + [🐵 博客](https://hexo.zxiaosi.cn/)
   + [⚡️ GitHub](https://github.com/zxiaosi/doc)
   + [⚓ Gitee](https://gitee.com/zxiaosi/doc)
