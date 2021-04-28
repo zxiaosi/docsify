@@ -1,0 +1,16 @@
+<!-- docsify/_navbar.md --> 
+
++ [🏠 首页](/README.md)
+  + [📣 HTML](README?id=📣-html)
+  + [🌟 CSS](README?id=🌟-css)
+  + [🌀 JavaScript](README?id=🌀-javascript)
+  + [📌 C](README?id=📌-c)
+  + [☕️ Java](README?id=☕️-java)
+  + [🐍 Python](README?id=🐍-python)
+  + [🐘 PHP](README?id=🐘-php)
+  + [🐬 MySQL](README?id=🐬-mysql)
++ [🔗 网站](/README.md)
++ [🌎 主站](https://zxiaosi.cn/)
+  + [🐵 博客](https://hexo.zxiaosi.cn/)
+  + [⚡️ GitHub](https://github.com/zxiaosi/doc)
+  + [⚓ Gitee](https://gitee.com/zxiaosi/doc)
